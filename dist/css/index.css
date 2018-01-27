@@ -1,0 +1,11 @@
+body {
+  background: #ff6700;
+}
+
+#div1 {
+  width: 200px;
+  height: 200px;
+  background-image: url(http://localhost:8080/images/50d7956bb3cff8ad298a77cf060d3394.jpg);
+  -webkit-transform: translate(50px);
+  transform: translate(50px);
+}
